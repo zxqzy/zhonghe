@@ -1,3 +1,4 @@
+const organizationPage = require('./crane/organization-portrait/index')
 module.exports = {
   // i18n 配置
   name: 'zhonghe',
@@ -40,5 +41,7 @@ module.exports = {
     },
   },
   // 页面
-  pages: [],
+  pages: [
+    organizationPage,
+  ],
 }

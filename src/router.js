@@ -8,5 +8,10 @@ export default new Router({
   mode: 'history',
   base: '/',
   routes: [
+    {
+      name: 'orginization_portrait',
+      path: '/orginizationPortrait',
+      component: pages.orginization_portrait,
+    },
   ],
 })

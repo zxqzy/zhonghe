@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icon-Name</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Name" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(2.000000, 0.000000)" fill="#000000" fill-rule="nonzero" id="形状">
+            <path d="M9.5115,0 C12.6645,0 15.219,2.6865 15.219,6 C15.219,9.312 12.6645,12 9.5115,12 C6.36,12 3.8055,9.312 3.8055,6 C3.8055,2.6865 6.36,0 9.5115,0 Z M7.3725,13.9995 L12.1275,13.9995 C16.2,13.9995 19.5,17.469 19.5,21.75 L19.5,22.2495 C19.5,23.9355 16.1985,24 12.1275,24 L7.3725,24 C3.3,24 0,23.9985 0,22.2495 L0,21.75 C0,17.469 3.3015,13.9995 7.3725,13.9995 Z"></path>
+        </g>
+    </g>
+</svg>
